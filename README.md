@@ -1,4 +1,4 @@
-# Algo Maestro - Fully Automated Algorithmic Trading System
+# 💹 Algo Maestro - Fully Automated Algorithmic Trading System
 
 - Developed a real time algorithmic trading system that analyzes historical stock data, identifies trading patterns, and autonomously executes buy and sell orders on the National Stock Exchange (NSE).
 - Implemented efficient data processing techniques to manage large volumes of historical data.
